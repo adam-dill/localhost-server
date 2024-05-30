@@ -5,7 +5,7 @@ This project was created in Visual Studio 2019. It provides a simple localhost s
 ## Project Structure
 
 - The solution file is named `LocalHostServer.csproj` and is located in the `Source` directory.
-- The `Example` directory contains the current build.
+- The `Example` directory contains working example of the build with a test HTML file.
   
 ## Usage
 
